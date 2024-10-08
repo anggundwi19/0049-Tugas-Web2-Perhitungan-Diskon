@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 30px 25%;
+    background: gray;
+    text-align: center;
+    font-family: 'Tahoma';
+}
+
+form {
+    background:bisque;
+    padding: 30px;
+    color: black;
+    font-weight: bold;
+}
+
+table{
+    width: 100%;
+}
+
+td{
+    border-bottom: 1px solid wheat;
+    padding: 10px;
+}
+
+h1{
+    color: black;
+    text-align: center;
+}
+
+tombol-submit {
+    background: #f0ff80;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: bold;
+}
